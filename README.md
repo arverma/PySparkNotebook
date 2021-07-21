@@ -1,3 +1,3 @@
 # PySparkNotebook
 
-Open [notebook](Aman_RanjanVerma.ipynb)
+Open [notebook](notebook.ipynb)
